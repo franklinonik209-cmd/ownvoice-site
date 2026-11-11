@@ -1,0 +1,10 @@
+{
+  "base_url": "https://ownvoice.tech/",
+  "contact_email": "contact@onikanglobal.com",
+  "domain": "ownvoice.tech",
+  "note": "SINGLE SOURCE FOR THE DOMAIN. To change the domain, edit the domain value here, then run: python3 tools/set-domain.py . The script rewrites CNAME, sitemap.xml, robots.txt, site.webmanifest, and every canonical, Open Graph, and JSON-LD URL in the HTML pages from this one value. No other file should ever be edited by hand for a domain change.",
+  "public_phone_display": "(917) 727-6096",
+  "public_phone_href": "tel:+19177276096",
+  "publisher": "Onikan Global Solutions LLC",
+  "site_name": "OwnVoice Studio"
+}
